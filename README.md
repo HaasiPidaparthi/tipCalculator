@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This application is a fundamental tip calculator. Since I was a little familiar with Xcode, this assignment was not very challenging. However, due to lack of time, I didn't get a chance to add advanced features to this application. I am planning to modify this application soon. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Haasitha Pidaparthi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
